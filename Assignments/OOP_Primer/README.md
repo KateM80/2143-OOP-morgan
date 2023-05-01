@@ -3,6 +3,8 @@
 - Date: 01 May 2023
 - Class: 2143 OOP
 
+[Wiki](https://github.com/KateM80/2143-OOP-morgan/wiki)
+
 ## Definitions
 
 #### Abstraction
