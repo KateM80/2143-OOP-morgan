@@ -6,58 +6,58 @@
 ## Definitions
 
 #### Abstraction
-> The process of hiding implementation details and giving the user only the necessary information.
+> Concept in OOP that involves hiding the implantation of a system and provides only the necessary info to the user. In OOP this is often done through the use of classes. By using classes the User can use a class and its methods while not needing to understand its operation. 
 
 #### Attributes / Properties
-> Variables that store data for an object. Define the state of an object and can be accessed and modified using methods.
+> Variables that hold the data for a class. Define the characteristics of a class. Can be accessed or modified using methods in the class. Can be public or private. 
 
 #### Class
-> A blueprint that defines the properties and behaviors of a specific type of object.
+> Defined attributes and behavior of an object. The class uses methods, which are functions built into the class, to define the behavior of an object.
 
 #### Class Variable
-> A variable that is shared by all instances of a class.
+> A Static variable shared between all instances of a class.
 
 #### Composition
-> A design technique in which a class contains objects of other classes as its members.
+> Composition is an OOP concept in which a class is composed of other objects(usually classes). This allows the reuse of existing objects to reduce complexity. 
 
 #### Constructor
-> A special method that is called when an object is created. It is used to initialize the object's attributes.
+> A method used to create an object. Initializes the object with desired attributes. A class can contain multiple constructors to allows different use for the object. 
 
 #### Encapsulation
-> A technique that restricts direct access to an object's attributes and methods, and instead provides public methods to access and modify the object's state.
+> Encapsulation is an OOP concept in which an object is only interacted with a interface. It makes use of the Public, protected and private as way to hide data.
 
 #### Friends
-> A feature that allows a class to access the private and protected members of another class.
+> A keyword that allows a class to access the private and protected members of another class.
 
 #### Inheritance
-> A feature that allows a new class to be based on an existing class, inheriting its properties and behaviors
+> An OOP concept in which a class is created from an existing Class. The new class called a sub-class or derived class. It allows for code reuse and reduced complexity. 
 
 #### Instance Variable
-> A variable that belongs to a specific instance of a class.
+> An instance Variable is a variable associated with one object. Each object created with the variable is unique and independent of other objects sharing the variable.
 
 #### Member Variable
 > Another term for an instance variable.
 
 #### Method
-> A function that is defined in a class and operates on an object of that class.
+> A function implemented in a class. Used to interact with or access objects with in a class.
 
 #### Multiple Inheritance
-> A feature that allows a class to inherit properties and behaviors from multiple base classes.
+> A concept in OOP in which a class inherits from more than one class.
 
 #### Object
 > An instance of a class.
 
 #### Overloading
-> Defining multiple methods with the same name but different parameters.
+> A concept in OOP in which a method with the same name as an other one, but containing different parameters.
 
 #### Polymorphism
-> The ability of an object to take on many forms, or to be used in different ways.
+> A concept in OOP that allows using classes in different ways. Usually implemented through method overloading and overriding. 
 
 #### Public / Private / Protected
 > Access modifiers that define the level of visibility and accessibility of a class member.
 
 #### Static
-> A keyword that specifies that a variable or method belongs to the class, rather than an instance of the class.
+> A keyword that makes a variable or method shared between all instances of a class.
 
 #### Virtual
 > A keyword that allows a method to be overridden in a derived class.
