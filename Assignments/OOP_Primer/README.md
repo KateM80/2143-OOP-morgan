@@ -3,7 +3,7 @@
 - Date: 01 May 2023
 - Class: 2143 OOP
 
-##Definitions
+## Definitions
 
 #### Abstraction
 > The process of hiding implementation details and giving the user only the necessary information.
