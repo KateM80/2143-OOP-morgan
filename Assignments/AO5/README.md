@@ -1,5 +1,5 @@
 ### Character
-![Character]<img src="Assignments/AO5/Images/Chatacter.png" width="200">
+<img src="Assignments/AO5/Images/Chatacter.png" width="200">
 
 ### Structs
 <img src="Assignments/AO5/Images/Structs.png" width="200">
@@ -15,4 +15,4 @@
 <img src="Assignments/AO5/Images/Dice.png" width="200">
 
 ### Diagram
-<img src="Assignments/AO5/Images/Diagram.png" width="200">
+<img src="https://github.com/KateM80/2143-OOP-morgan/blob/main/Assignments/AO5/Images/Diagram.png">
