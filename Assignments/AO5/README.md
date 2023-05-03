@@ -15,4 +15,4 @@
 <img src="Assignments/AO5/Images/Dice.png" width="200">
 
 ### Diagram
-<img src="https://github.com/KateM80/2143-OOP-morgan/blob/main/Assignments/AO5/Images/Diagram.png" width="200">
+<img src="https://github.com/KateM80/2143-OOP-morgan/blob/main/Assignments/AO5/Images/Diagram.png" width="400">
